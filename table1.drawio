@@ -1,1 +1,94 @@
-<mxfile host="app.diagrams.net" modified="2021-12-26T12:38:21.382Z" agent="5.0 (Windows)" version="16.1.0" etag="L5iNfB76EFui698sCRZ4" type="github"><diagram id="iolpdPddfm9m45byl-rD">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-26T13:04:21.770Z" agent="5.0 (Windows)" etag="sFoyDZQ98pxd4fe-3irS" version="16.1.0" type="github">
+  <diagram id="iolpdPddfm9m45byl-rD" name="Page-1">
+    <mxGraphModel dx="1038" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uJ0fsoe7xuuhZZw1myse-35" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;gradientColor=#FFFFFF;gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry y="310" width="820" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="uJ0fsoe7xuuhZZw1myse-37" value="Approach" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJ0fsoe7xuuhZZw1myse-38" value="Advantages" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="160" y="320" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJ0fsoe7xuuhZZw1myse-39" value="Constraints/Disadvantages" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="360" y="320" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJ0fsoe7xuuhZZw1myse-40" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;gradientColor=#FFFFFF;gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry y="340" width="820" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="uJ0fsoe7xuuhZZw1myse-41" value="Resampling methods" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry y="350" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJ0fsoe7xuuhZZw1myse-42" value="- Applicable to any MLC classiﬁer" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="160" y="350" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJ0fsoe7xuuhZZw1myse-43" value="- Classiﬁer independent" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="160" y="370" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJ0fsoe7xuuhZZw1myse-44" value="- High level of concurrence between imbalanced labels and a large number of &#xa;&#xa;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;spacing=2;spacingBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="350" width="460" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJ0fsoe7xuuhZZw1myse-45" value="uniquelabel-sets" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="360" y="370" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJ0fsoe7xuuhZZw1myse-46" value="- May introduce noisy data" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="360" y="390" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJ0fsoe7xuuhZZw1myse-49" value="Classiﬁer adaptation" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry y="410" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJ0fsoe7xuuhZZw1myse-50" value="- Effective in a certain context" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="160" y="410" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJ0fsoe7xuuhZZw1myse-51" value="- MLD does not change" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="160" y="430" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJ0fsoe7xuuhZZw1myse-56" value="- Requires extensive knowledge of the speciﬁc classiﬁer and problem domains.&#xa;&#xa;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="360" y="410" width="460" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJ0fsoe7xuuhZZw1myse-58" value="- Algorithm dependent solutions" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="360" y="430" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJ0fsoe7xuuhZZw1myse-61" value="Ensemble methods" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry y="450" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJ0fsoe7xuuhZZw1myse-63" value="- Decrease variance and improve" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="160" y="450" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJ0fsoe7xuuhZZw1myse-64" value="prediction" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="160" y="470" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJ0fsoe7xuuhZZw1myse-65" value="- Computational complexity" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="360" y="450" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJ0fsoe7xuuhZZw1myse-66" value="- No clear criteria for selecting the type and number of MLC classiﬁers" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="360" y="470" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJ0fsoe7xuuhZZw1myse-68" value="- Reduce overﬁtting" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="160" y="490" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJ0fsoe7xuuhZZw1myse-69" value="Cost-sensitive" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry y="510" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJ0fsoe7xuuhZZw1myse-70" value="- Computationally eﬃcient" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="160" y="510" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJ0fsoe7xuuhZZw1myse-71" value="- Real cost values are unknown in most applications domains" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="360" y="510" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJ0fsoe7xuuhZZw1myse-72" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;gradientColor=#FFFFFF;gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry y="530" width="820" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="uJ0fsoe7xuuhZZw1myse-73" value="Table 1" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJ0fsoe7xuuhZZw1myse-82" value="不同类别的不平衡处理方法的优缺点。&#xa;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry y="290" width="450" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
